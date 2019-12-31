@@ -1,3 +1,5 @@
+//+build disable
+
 package main
 
 import "fmt"
