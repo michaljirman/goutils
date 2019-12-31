@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 13,
+    "go.useLanguageServer": true,
+    "go.autocompleteUnimportedPackages": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "go.testFlags": [
+        "-v"
+    ],
+}
